@@ -1,0 +1,6 @@
+{
+  "name": "Sinara Achadinhos da Internet",
+  "description": "Vitrine moderna e inovadora de achadinhos da internet da Sinara com links de Mercado Livre, Magalu, Shopee, Amazon e cupons exclusivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

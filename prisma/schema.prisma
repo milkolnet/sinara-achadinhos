@@ -1,0 +1,159 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model AdminUser {
+  id           String    @id @default(cuid())
+  username     String    @unique
+  passwordHash String
+  name         String
+  role         String    @default("admin") // "super_admin" | "admin"
+  isActive     Boolean   @default(true)
+  lastLoginAt  DateTime?
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+
+  @@map("admin_users")
+}
+
+model Category {
+  id        String    @id
+  name      String
+  slug      String    @unique
+  icon      String    @default("Tag")
+  emoji     String    @default("✨")
+  order     Int       @default(0)
+  isActive  Boolean   @default(true)
+  products  Product[]
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+
+  @@index([isActive])
+  @@index([order])
+  @@map("categories")
+}
+
+model Platform {
+  id          String    @id
+  name        String
+  shortName   String
+  slug        String    @unique
+  domains     String[]
+  badgeBg     String    @default("bg-[#F1F5F9]")
+  badgeText   String    @default("text-[#475569] font-bold")
+  accentColor String    @default("#FF3B7F")
+  borderColor String    @default("border-[#E2E8F0]")
+  lightBg     String    @default("bg-[#F8FAFC]")
+  isActive    Boolean   @default(true)
+  products    Product[]
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  @@index([isActive])
+  @@map("platforms")
+}
+
+model Product {
+  id                String       @id @default(cuid())
+  title             String
+  slug              String
+  description       String       @db.Text
+  sinaraReview      String?      @db.Text
+  price             Float
+  originalPrice     Float
+  discountPercent   Int          @default(0)
+  originalUrl       String?      @db.Text
+  resolvedUrl       String?      @db.Text
+  affiliateUrl      String       @db.Text
+  platformUrl       String?      @db.Text
+  imageUrl          String       @db.Text
+  galleryImages     String[]
+  platformId        String
+  platform          Platform     @relation(fields: [platformId], references: [id])
+  categoryId        String
+  category          Category     @relation(fields: [categoryId], references: [id])
+  subcategory       String?
+  couponCode        String?
+  couponDiscount    String?
+  badges            String[]
+  likesCount        Int          @default(0)
+  clicksCount       Int          @default(0)
+  isFeatured        Boolean      @default(false)
+  isGoldFind        Boolean      @default(false)
+  isWeeklyHighlight Boolean      @default(false)
+  isActive          Boolean      @default(true)
+  isVerified        Boolean      @default(true)
+  installments      String?
+  clicks            ClickEvent[]
+  createdAt         DateTime     @default(now())
+  updatedAt         DateTime     @updatedAt
+
+  @@index([isActive])
+  @@index([categoryId])
+  @@index([platformId])
+  @@index([isGoldFind])
+  @@index([isWeeklyHighlight])
+  @@index([createdAt])
+  @@map("products")
+}
+
+model Coupon {
+  id           String    @id @default(cuid())
+  code         String
+  store        String
+  platformId   String?
+  description  String?
+  discount     String
+  minimumSpend Float     @default(0)
+  validUntil   DateTime?
+  validFrom    DateTime?
+  affiliateUrl String?   @db.Text
+  copyCount    Int       @default(0)
+  badge        String    @default("Verificado")
+  isActive     Boolean   @default(true)
+  isFeatured   Boolean   @default(false)
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+
+  @@index([isActive])
+  @@index([code])
+  @@map("coupons")
+}
+
+model ClickEvent {
+  id            String   @id @default(cuid())
+  productId     String
+  product       Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  platform      String
+  productTitle  String
+  visitorIpHash String?
+  userAgent     String?
+  referrer      String?
+  timestamp     DateTime @default(now())
+
+  @@index([productId])
+  @@index([platform])
+  @@index([timestamp])
+  @@map("click_events")
+}
+
+model SiteSettings {
+  id                 String   @id @default("default")
+  siteTitle          String
+  tagline            String
+  sinaraBio          String   @db.Text
+  whatsappGroupUrl   String?
+  telegramChannelUrl String?
+  instagramUrl       String?
+  goldFindProductId  String?
+  mainFeaturedId     String?
+  weeklyHighlightId  String?
+  updatedAt          DateTime @updatedAt
+
+  @@map("site_settings")
+}

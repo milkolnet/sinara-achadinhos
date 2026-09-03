@@ -1,0 +1,1091 @@
+{
+  "adminUsers": [
+    {
+      "username": "admin",
+      "name": "Sinara (Administradora)",
+      "role": "super_admin"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "title": "Mini Seladora Térmica Portátil Recarregável para Embalagens",
+      "description": "Fecha pacotes de salgadinhos, biscoitos e sacos plásticos em 3 segundos mantendo tudo crocante.",
+      "sinaraReview": "Gente, esse é literalmente o melhor achadinho da minha vida! Adeus pregador de roupa no saco de batata palha! 😂 Esquenta rápido e tem ímã de geladeira.",
+      "price": 24.9,
+      "originalPrice": 49.9,
+      "discountPercent": 50,
+      "affiliateUrl": "https://shopee.com.br/product/seladora-portatil-imantada-usb",
+      "imageUrl": "https://images.unsplash.com/photo-1584992236310-6edddc08acff?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1584992236310-6edddc08acff?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "platform": "shopee",
+      "category": "cozinha",
+      "couponCode": "SINARA10",
+      "couponDiscount": "R$ 10 OFF",
+      "badges": [
+        "testado_sinara",
+        "viral",
+        "desconto_max",
+        "cupom"
+      ],
+      "likesCount": 1420,
+      "clicksCount": 3897,
+      "isFeatured": true,
+      "isVerified": true,
+      "createdAt": "2026-08-28T14:30:00Z",
+      "rating": 4.9,
+      "reviewCount": 684,
+      "installments": "2x de R$ 12,45 sem juros",
+      "slug": "mini-seladora-t-rmica-port-til-recarreg-vel-para-embalagens",
+      "isActive": true,
+      "isGoldFind": true,
+      "isWeeklyHighlight": false,
+      "platformUrl": "https://shopee.com.br/product/seladora-portatil-imantada-usb",
+      "updatedAt": "2026-08-28T14:30:00Z"
+    },
+    {
+      "id": "prod-2",
+      "title": "Dispenser Automático de Detergente com Porta Esponja 2 em 1",
+      "description": "Basta pressionar a esponja para cima que sai a quantidade exata de sabão, sem sujeira na pia.",
+      "sinaraReview": "Economiza metade do detergente do mês! Minha pia nunca mais ficou com aquela água escorrendo. É só empurrar com a esponja e pronto.",
+      "price": 19.8,
+      "originalPrice": 38,
+      "discountPercent": 48,
+      "affiliateUrl": "https://www.mercadolivre.com.br/dispenser-detergente-pia-cozinha-suporte-esponja/p/MLB192837",
+      "imageUrl": "https://images.unsplash.com/photo-1585670149967-b4f4da88cc9f?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1585670149967-b4f4da88cc9f?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80"
+      ],
+      "platform": "mercadolivre",
+      "category": "organizacao",
+      "couponCode": "MELIFRETE",
+      "couponDiscount": "Frete Grátis acima de R$29",
+      "badges": [
+        "mais_vendido",
+        "desconto_max",
+        "testado_sinara"
+      ],
+      "likesCount": 980,
+      "clicksCount": 2410,
+      "isFeatured": true,
+      "isVerified": true,
+      "createdAt": "2026-08-29T10:15:00Z",
+      "rating": 4.8,
+      "reviewCount": 420,
+      "installments": "À vista no Pix",
+      "slug": "dispenser-autom-tico-de-detergente-com-porta-esponja-2-em-1",
+      "isActive": true,
+      "isGoldFind": false,
+      "isWeeklyHighlight": true,
+      "platformUrl": "https://www.mercadolivre.com.br/dispenser-detergente-pia-cozinha-suporte-esponja/p/MLB192837",
+      "updatedAt": "2026-08-29T10:15:00Z"
+    },
+    {
+      "id": "prod-3",
+      "title": "Air Fryer Fritadeira Sem Óleo 4L Touch Digital Visor Transparente",
+      "description": "Cesto com iluminação interna e vidro para acompanhar o ponto do alimento sem abrir.",
+      "sinaraReview": "O visor de vidro é revolucionário, não precisa ficar abrindo toda hora pra ver se o pão de queijo dourou! Peguei na promo do Magalu com cupom.",
+      "price": 269.9,
+      "originalPrice": 459.9,
+      "discountPercent": 41,
+      "affiliateUrl": "https://www.magazineluiza.com.br/fritadeira-eletrica-air-fryer-digital-visor/p/23849182",
+      "imageUrl": "https://images.unsplash.com/photo-1585515320310-259814833e62?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1585515320310-259814833e62?auto=format&fit=crop&w=800&q=80"
+      ],
+      "platform": "magalu",
+      "category": "cozinha",
+      "couponCode": "MAGALU50",
+      "couponDiscount": "R$ 50 OFF no APP",
+      "badges": [
+        "cupom",
+        "frete_gratis",
+        "desconto_max",
+        "testado_sinara"
+      ],
+      "likesCount": 2310,
+      "clicksCount": 5670,
+      "isFeatured": true,
+      "isVerified": true,
+      "createdAt": "2026-08-30T18:00:00Z",
+      "rating": 4.9,
+      "reviewCount": 1102,
+      "installments": "6x de R$ 44,98 sem juros",
+      "slug": "air-fryer-fritadeira-sem-leo-4l-touch-digital-visor-transpar",
+      "isActive": true,
+      "isGoldFind": false,
+      "isWeeklyHighlight": true,
+      "platformUrl": "https://www.magazineluiza.com.br/fritadeira-eletrica-air-fryer-digital-visor/p/23849182",
+      "updatedAt": "2026-08-30T18:00:00Z"
+    },
+    {
+      "id": "prod-4",
+      "title": "Luminária de Lua 3D Touch 16 Cores RGB com Controle Remoto",
+      "description": "Feita com tecnologia de impressão 3D realista, bateria recarregável e suporte de madeira nobre.",
+      "sinaraReview": "Fica linda na mesinha de cabeceira ou no setup de gravação! Dá um clima muito aconchegante no quarto à noite ✨",
+      "price": 49.9,
+      "originalPrice": 89.9,
+      "discountPercent": 44,
+      "affiliateUrl": "https://www.amazon.com.br/dp/B08XYZ1234?tag=sinaraachadinhos-20",
+      "imageUrl": "https://images.unsplash.com/photo-1532767153582-b1a0e5145009?auto=format&fit=crop&w=800&q=80",
+      "platform": "amazon",
+      "category": "casa",
+      "couponCode": "AMZPRIME",
+      "couponDiscount": "Frete Grátis Prime",
+      "badges": [
+        "viral",
+        "desconto_max"
+      ],
+      "likesCount": 860,
+      "clicksCount": 1890,
+      "isFeatured": false,
+      "isVerified": true,
+      "createdAt": "2026-08-25T09:20:00Z",
+      "rating": 4.7,
+      "reviewCount": 310,
+      "installments": "3x de R$ 16,63 sem juros",
+      "slug": "lumin-ria-de-lua-3d-touch-16-cores-rgb-com-controle-remoto",
+      "isActive": true,
+      "isGoldFind": false,
+      "isWeeklyHighlight": false,
+      "platformUrl": "https://www.amazon.com.br/dp/B08XYZ1234?tag=sinaraachadinhos-20",
+      "updatedAt": "2026-08-25T09:20:00Z"
+    },
+    {
+      "id": "prod-5",
+      "title": "Organizador Giratório 360° Acrílico Diamante para Skincare e Maquiagem",
+      "description": "Armazena mais de 30 frascos e pincéis ocupando um espaço mínimo na penteadeira ou banheiro.",
+      "sinaraReview": "Meninas, coube todos os meus séruns, cremes e perfumes num lugar só. Gira suave e o acrílico é grosso de verdade!",
+      "price": 39.9,
+      "originalPrice": 75,
+      "discountPercent": 47,
+      "affiliateUrl": "https://br.shein.com/360-rotating-makeup-organizer-p-29381.html",
+      "imageUrl": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "platform": "shein",
+      "category": "beleza",
+      "couponCode": "SHEINSINARA",
+      "couponDiscount": "15% OFF Extra",
+      "badges": [
+        "testado_sinara",
+        "cupom",
+        "mais_vendido"
+      ],
+      "likesCount": 1740,
+      "clicksCount": 4120,
+      "isFeatured": true,
+      "isVerified": true,
+      "createdAt": "2026-08-27T16:45:00Z",
+      "rating": 4.9,
+      "reviewCount": 890,
+      "installments": "2x de R$ 19,95 sem juros",
+      "slug": "organizador-girat-rio-360-acr-lico-diamante-para-skincare-e-",
+      "isActive": true,
+      "isGoldFind": false,
+      "isWeeklyHighlight": false,
+      "platformUrl": "https://br.shein.com/360-rotating-makeup-organizer-p-29381.html",
+      "updatedAt": "2026-08-27T16:45:00Z"
+    },
+    {
+      "id": "prod-6",
+      "title": "Mini Impressora Térmica Portátil Sem Fio Bluetooth para Fotos e Etiquetas",
+      "description": "Não usa tinta! Imprime fotos preto e branco, listas de tarefas, etiquetas e desenhos direto do celular.",
+      "sinaraReview": "Sensação do TikTok! Meus cadernos e potes de tempero agora são todos etiquetados. As crianças também amam pra colorir!",
+      "price": 67.5,
+      "originalPrice": 139.9,
+      "discountPercent": 52,
+      "affiliateUrl": "https://pt.aliexpress.com/item/1005006283921.html",
+      "imageUrl": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=800&q=80",
+      "platform": "aliexpress",
+      "category": "tecnologia",
+      "couponCode": "ALIBRASIL",
+      "couponDiscount": "R$ 15 OFF acima de R$50",
+      "badges": [
+        "viral",
+        "desconto_max",
+        "cupom"
+      ],
+      "likesCount": 1530,
+      "clicksCount": 3200,
+      "isFeatured": false,
+      "isVerified": true,
+      "createdAt": "2026-08-26T12:00:00Z",
+      "rating": 4.8,
+      "reviewCount": 540,
+      "installments": "3x de R$ 22,50 sem juros",
+      "slug": "mini-impressora-t-rmica-port-til-sem-fio-bluetooth-para-foto",
+      "isActive": true,
+      "isGoldFind": false,
+      "isWeeklyHighlight": false,
+      "platformUrl": "https://pt.aliexpress.com/item/1005006283921.html",
+      "updatedAt": "2026-08-26T12:00:00Z"
+    },
+    {
+      "id": "prod-7",
+      "title": "Escova Secadora Oval 3 em 1 Cerâmica e Íons Tourmaline Bivolt",
+      "description": "Seca, alinha e modela em minutos com menos frizz e brilho espelhado.",
+      "sinaraReview": "Minha salvação nos dias corridos! Deixa o cabelo com aquele efeito de escova de salão em 15 minutinhos.",
+      "price": 89.9,
+      "originalPrice": 169.9,
+      "discountPercent": 47,
+      "affiliateUrl": "https://www.magazineluiza.com.br/escova-secadora-modeladora-bivolt/p/3920192",
+      "imageUrl": "https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=800&q=80",
+      "platform": "magalu",
+      "category": "beleza",
+      "couponCode": "CABELO10",
+      "couponDiscount": "10% de Cashback",
+      "badges": [
+        "mais_vendido",
+        "testado_sinara",
+        "frete_gratis"
+      ],
+      "likesCount": 2890,
+      "clicksCount": 6100,
+      "isFeatured": false,
+      "isVerified": true,
+      "createdAt": "2026-08-24T15:30:00Z",
+      "rating": 4.9,
+      "reviewCount": 1450,
+      "installments": "4x de R$ 22,47 sem juros",
+      "slug": "escova-secadora-oval-3-em-1-cer-mica-e-ons-tourmaline-bivolt",
+      "isActive": true,
+      "isGoldFind": false,
+      "isWeeklyHighlight": false,
+      "platformUrl": "https://www.magazineluiza.com.br/escova-secadora-modeladora-bivolt/p/3920192",
+      "updatedAt": "2026-08-24T15:30:00Z"
+    },
+    {
+      "id": "prod-8",
+      "title": "Tapete Super Absorvente Mágico de Secagem Rápida para Banheiro",
+      "description": "Tecnologia de diatomita que absorve a água dos pés instantaneamente e seca em segundos sem cheiro de mofo.",
+      "sinaraReview": "Você pisa molhada e em 10 segundos o tapete já tá seco! Chega de piso encharcado depois do banho.",
+      "price": 29.9,
+      "originalPrice": 59.9,
+      "discountPercent": 50,
+      "affiliateUrl": "https://shopee.com.br/tapete-magico-antiderrapante-diatomita-absorvente",
+      "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+      "platform": "shopee",
+      "category": "casa",
+      "couponCode": "CASA20",
+      "couponDiscount": "R$ 5 OFF Extra",
+      "badges": [
+        "viral",
+        "desconto_max",
+        "testado_sinara"
+      ],
+      "likesCount": 1120,
+      "clicksCount": 2980,
+      "isFeatured": false,
+      "isVerified": true,
+      "createdAt": "2026-08-23T11:10:00Z",
+      "rating": 4.8,
+      "reviewCount": 390,
+      "installments": "À vista no Pix",
+      "slug": "tapete-super-absorvente-m-gico-de-secagem-r-pida-para-banhei",
+      "isActive": true,
+      "isGoldFind": false,
+      "isWeeklyHighlight": false,
+      "platformUrl": "https://shopee.com.br/tapete-magico-antiderrapante-diatomita-absorvente",
+      "updatedAt": "2026-08-23T11:10:00Z"
+    },
+    {
+      "id": "prod-9",
+      "title": "Fita LED Inteligente Wi-Fi RGB 5 Metros compatível com Alexa e Google Home",
+      "description": "Sincroniza com músicas, ajusta cores pelo celular e cria rotinas automáticas de iluminação.",
+      "sinaraReview": "Transforma qualquer quarto ou sala em cinema! Dá pra mudar de cor pelo comando de voz.",
+      "price": 38.5,
+      "originalPrice": 79.9,
+      "discountPercent": 52,
+      "affiliateUrl": "https://www.mercadolivre.com.br/fita-led-rgb-wifi-5m-alexa/p/MLB8829102",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "platform": "mercadolivre",
+      "category": "tecnologia",
+      "couponCode": "TECHMELI",
+      "couponDiscount": "R$ 10 OFF",
+      "badges": [
+        "viral",
+        "desconto_max"
+      ],
+      "likesCount": 1340,
+      "clicksCount": 3450,
+      "isFeatured": false,
+      "isVerified": true,
+      "createdAt": "2026-08-22T08:00:00Z",
+      "rating": 4.7,
+      "reviewCount": 710,
+      "installments": "3x de R$ 12,83",
+      "slug": "fita-led-inteligente-wi-fi-rgb-5-metros-compat-vel-com-alexa",
+      "isActive": true,
+      "isGoldFind": false,
+      "isWeeklyHighlight": false,
+      "platformUrl": "https://www.mercadolivre.com.br/fita-led-rgb-wifi-5m-alexa/p/MLB8829102",
+      "updatedAt": "2026-08-22T08:00:00Z"
+    },
+    {
+      "id": "prod-10",
+      "title": "Bebedouro Fonte de Água Automática em Inox para Gatos e Cães com Filtro Triplo",
+      "description": "Água sempre corrente, fresca e oxigenada. Ultra silenciosa e com luz LED indicadora.",
+      "sinaraReview": "Meu pet bebia pouca água e vivia com infecção. Desde que comprei essa fonte ele bebe toda hora! Super fácil de limpar.",
+      "price": 74.9,
+      "originalPrice": 129,
+      "discountPercent": 42,
+      "affiliateUrl": "https://www.amazon.com.br/fonte-agua-inox-pet-silenciosa/dp/B09ABC5678",
+      "imageUrl": "https://images.unsplash.com/photo-1548767797-d8c844163c4c?auto=format&fit=crop&w=800&q=80",
+      "platform": "amazon",
+      "category": "pets",
+      "couponCode": "PETAMZ",
+      "couponDiscount": "10% no Pix",
+      "badges": [
+        "testado_sinara",
+        "frete_gratis"
+      ],
+      "likesCount": 950,
+      "clicksCount": 2150,
+      "isFeatured": false,
+      "isVerified": true,
+      "createdAt": "2026-08-21T17:20:00Z",
+      "rating": 4.9,
+      "reviewCount": 460,
+      "installments": "3x de R$ 24,96",
+      "slug": "bebedouro-fonte-de-gua-autom-tica-em-inox-para-gatos-e-c-es-",
+      "isActive": true,
+      "isGoldFind": false,
+      "isWeeklyHighlight": false,
+      "platformUrl": "https://www.amazon.com.br/fonte-agua-inox-pet-silenciosa/dp/B09ABC5678",
+      "updatedAt": "2026-08-21T17:20:00Z"
+    },
+    {
+      "id": "prod-11",
+      "title": "Mini Processador e Triturador de Alimentos Elétrico USB sem Fio 250ml",
+      "description": "Pica alho, cebola, temperos, nozes e legumes em menos de 10 segundos sem sujar as mãos nem chorar.",
+      "sinaraReview": "Nunca mais piquei cebola na tábua chorando! A lâmina é afiadíssima e lava em 10 segundos.",
+      "price": 32.9,
+      "originalPrice": 65,
+      "discountPercent": 49,
+      "affiliateUrl": "https://shopee.com.br/mini-processador-eletrico-usb-alho-cebola",
+      "imageUrl": "https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?auto=format&fit=crop&w=800&q=80",
+      "platform": "shopee",
+      "category": "cozinha",
+      "couponCode": "SINARACHEF",
+      "couponDiscount": "R$ 5 OFF",
+      "badges": [
+        "mais_vendido",
+        "viral",
+        "testado_sinara"
+      ],
+      "likesCount": 2100,
+      "clicksCount": 5120,
+      "isFeatured": false,
+      "isVerified": true,
+      "createdAt": "2026-08-20T14:15:00Z",
+      "rating": 4.8,
+      "reviewCount": 980,
+      "installments": "2x de R$ 16,45",
+      "slug": "mini-processador-e-triturador-de-alimentos-el-trico-usb-sem-",
+      "isActive": true,
+      "isGoldFind": false,
+      "isWeeklyHighlight": false,
+      "platformUrl": "https://shopee.com.br/mini-processador-eletrico-usb-alho-cebola",
+      "updatedAt": "2026-08-20T14:15:00Z"
+    },
+    {
+      "id": "prod-12",
+      "title": "Garrafa Térmica Motivacional 2 Litros com Canudo de Silicone e Adesivos 3D",
+      "description": "Marcadores de horário para beber água, trava antivazamento e alça ergonômica reforçada.",
+      "sinaraReview": "Me fez finalmente bater minha meta de 2L por dia sem sofrer! Os adesivinhos 3D são a coisa mais fofa.",
+      "price": 28.9,
+      "originalPrice": 55,
+      "discountPercent": 47,
+      "affiliateUrl": "https://br.shein.com/garrafa-termica-motivacional-2l-p-98124.html",
+      "imageUrl": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=800&q=80",
+      "platform": "shein",
+      "category": "criativos",
+      "couponCode": "SHEINAGUA",
+      "couponDiscount": "Frete Grátis acima de R$49",
+      "badges": [
+        "viral",
+        "desconto_max"
+      ],
+      "likesCount": 1650,
+      "clicksCount": 3870,
+      "isFeatured": false,
+      "isVerified": true,
+      "createdAt": "2026-08-19T10:00:00Z",
+      "rating": 4.8,
+      "reviewCount": 820,
+      "installments": "À vista no Pix",
+      "slug": "garrafa-t-rmica-motivacional-2-litros-com-canudo-de-silicone",
+      "isActive": true,
+      "isGoldFind": false,
+      "isWeeklyHighlight": false,
+      "platformUrl": "https://br.shein.com/garrafa-termica-motivacional-2l-p-98124.html",
+      "updatedAt": "2026-08-19T10:00:00Z"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "coup-1",
+      "code": "SINARA10",
+      "store": "Shopee",
+      "platform": "shopee",
+      "description": "R$ 10 OFF em compras acima de R$ 30 em toda a loja",
+      "discount": "R$ 10 OFF",
+      "minimumSpend": 30,
+      "validUntil": "Hoje até 23:59",
+      "copyCount": 1840,
+      "badge": "Exclusivo Sinara",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-09-03T15:50:05.065Z"
+    },
+    {
+      "id": "coup-2",
+      "code": "MAGALU50",
+      "store": "Magazine Luiza",
+      "platform": "magalu",
+      "description": "R$ 50 OFF em Eletrodomésticos e Cozinha pelo App",
+      "discount": "R$ 50 OFF",
+      "minimumSpend": 250,
+      "validUntil": "Restam poucas ativações",
+      "copyCount": 2940,
+      "badge": "Mais Usado",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-09-03T15:50:05.065Z"
+    },
+    {
+      "id": "coup-3",
+      "code": "MELIFRETE",
+      "store": "Mercado Livre",
+      "platform": "mercadolivre",
+      "description": "Frete Grátis no Full para produtos selecionados",
+      "discount": "Frete Grátis",
+      "minimumSpend": 29,
+      "validUntil": "Válido essa semana",
+      "copyCount": 3120,
+      "badge": "Frete Grátis",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-09-03T15:50:05.065Z"
+    },
+    {
+      "id": "coup-4",
+      "code": "SHEINSINARA",
+      "store": "Shein Brasil",
+      "platform": "shein",
+      "description": "15% de desconto extra sem valor mínimo",
+      "discount": "15% OFF",
+      "validUntil": "Válido o mês todo",
+      "copyCount": 4210,
+      "badge": "Sem Mínimo",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-09-03T15:50:05.065Z"
+    },
+    {
+      "id": "coup-5",
+      "code": "ALIBRASIL",
+      "store": "AliExpress Choice",
+      "platform": "aliexpress",
+      "description": "R$ 15 OFF em produtos com entrega expressa 12 dias",
+      "discount": "R$ 15 OFF",
+      "minimumSpend": 50,
+      "validUntil": "Últimos 100 cupons",
+      "copyCount": 1540,
+      "badge": "Entrega Rápida",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-09-03T15:50:05.065Z"
+    },
+    {
+      "id": "coup-6",
+      "code": "AMZPRIME",
+      "store": "Amazon Brasil",
+      "platform": "amazon",
+      "description": "Frete Grátis Ilimitado + 30 dias de teste Prime",
+      "discount": "Frete Grátis + Prime",
+      "validUntil": "Ativação imediata",
+      "copyCount": 5200,
+      "badge": "Top Benefício",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-09-03T15:50:05.065Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "casa",
+      "name": "Casa & Decoração",
+      "slug": "casa",
+      "icon": "Home",
+      "emoji": "🏡",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "id": "cozinha",
+      "name": "Cozinha Mágica",
+      "slug": "cozinha",
+      "icon": "Utensils",
+      "emoji": "🍳",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "id": "organizacao",
+      "name": "Organização",
+      "slug": "organizacao",
+      "icon": "Boxes",
+      "emoji": "📦",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "id": "tecnologia",
+      "name": "Gadgets & Tech",
+      "slug": "tecnologia",
+      "icon": "Cpu",
+      "emoji": "⚡",
+      "order": 4,
+      "isActive": true
+    },
+    {
+      "id": "beleza",
+      "name": "Beleza & Autocuidado",
+      "slug": "beleza",
+      "icon": "Sparkles",
+      "emoji": "💄",
+      "order": 5,
+      "isActive": true
+    },
+    {
+      "id": "moda",
+      "name": "Moda & Acessórios",
+      "slug": "moda",
+      "icon": "Shirt",
+      "emoji": "👗",
+      "order": 6,
+      "isActive": true
+    },
+    {
+      "id": "criativos",
+      "name": "Achados Criativos",
+      "slug": "criativos",
+      "icon": "Lightbulb",
+      "emoji": "💡",
+      "order": 7,
+      "isActive": true
+    },
+    {
+      "id": "pets",
+      "name": "Mundo Pet",
+      "slug": "pets",
+      "icon": "HeartHandshake",
+      "emoji": "🐾",
+      "order": 8,
+      "isActive": true
+    }
+  ],
+  "platforms": [
+    {
+      "id": "mercadolivre",
+      "name": "Mercado Livre",
+      "shortName": "Mercado Livre",
+      "slug": "mercadolivre",
+      "domains": [
+        "mercadolivre.com.br",
+        "mercadolivre.com",
+        "meli.la",
+        "mlb."
+      ],
+      "badgeBg": "bg-[#E0E7FF]",
+      "badgeText": "text-[#4338CA] font-bold",
+      "accentColor": "#4338CA",
+      "borderColor": "border-[#C7D2FE]",
+      "lightBg": "bg-[#EEF2FF]",
+      "isActive": true
+    },
+    {
+      "id": "magalu",
+      "name": "Magazine Luiza (Magalu)",
+      "shortName": "Magalu",
+      "slug": "magalu",
+      "domains": [
+        "magazineluiza.com.br",
+        "magalu.com",
+        "mglu.io"
+      ],
+      "badgeBg": "bg-[#D1FAE5]",
+      "badgeText": "text-[#059669] font-bold",
+      "accentColor": "#059669",
+      "borderColor": "border-[#A7F3D0]",
+      "lightBg": "bg-[#ECFDF5]",
+      "isActive": true
+    },
+    {
+      "id": "shopee",
+      "name": "Shopee",
+      "shortName": "Shopee",
+      "slug": "shopee",
+      "domains": [
+        "shopee.com.br",
+        "shope.ee",
+        "shopee.com"
+      ],
+      "badgeBg": "bg-[#FFEDD5]",
+      "badgeText": "text-[#D97706] font-bold",
+      "accentColor": "#D97706",
+      "borderColor": "border-[#FED7AA]",
+      "lightBg": "bg-[#FFF7ED]",
+      "isActive": true
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon Brasil",
+      "shortName": "Amazon",
+      "slug": "amazon",
+      "domains": [
+        "amazon.com.br",
+        "amazon.com",
+        "amzn.to"
+      ],
+      "badgeBg": "bg-[#FFE4E6]",
+      "badgeText": "text-[#E11D48] font-bold",
+      "accentColor": "#E11D48",
+      "borderColor": "border-[#FECDD3]",
+      "lightBg": "bg-[#FFF1F2]",
+      "isActive": true
+    },
+    {
+      "id": "shein",
+      "name": "Shein",
+      "shortName": "Shein",
+      "slug": "shein",
+      "domains": [
+        "shein.com",
+        "shein.com.br",
+        "m.shein.com"
+      ],
+      "badgeBg": "bg-[#F5F3FF]",
+      "badgeText": "text-[#6D28D9] font-bold",
+      "accentColor": "#6D28D9",
+      "borderColor": "border-[#DDD6FE]",
+      "lightBg": "bg-[#FAF5FF]",
+      "isActive": true
+    },
+    {
+      "id": "aliexpress",
+      "name": "AliExpress",
+      "shortName": "AliExpress",
+      "slug": "aliexpress",
+      "domains": [
+        "aliexpress.com",
+        "pt.aliexpress.com",
+        "s.click.aliexpress.com"
+      ],
+      "badgeBg": "bg-[#FEE2E2]",
+      "badgeText": "text-[#DC2626] font-bold",
+      "accentColor": "#DC2626",
+      "borderColor": "border-[#FECACA]",
+      "lightBg": "bg-[#FEF2F2]",
+      "isActive": true
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok Shop",
+      "shortName": "TikTok",
+      "slug": "tiktok",
+      "domains": [
+        "tiktok.com",
+        "shop.tiktok.com",
+        "vt.tiktok.com"
+      ],
+      "badgeBg": "bg-[#ECFEFF]",
+      "badgeText": "text-[#0E7490] font-bold",
+      "accentColor": "#0E7490",
+      "borderColor": "border-[#A5F3FC]",
+      "lightBg": "bg-[#F0FDFA]",
+      "isActive": true
+    },
+    {
+      "id": "other",
+      "name": "Loja Parceira",
+      "shortName": "Loja",
+      "slug": "other",
+      "domains": [],
+      "badgeBg": "bg-[#F1F5F9]",
+      "badgeText": "text-[#475569] font-bold",
+      "accentColor": "#475569",
+      "borderColor": "border-[#E2E8F0]",
+      "lightBg": "bg-[#F8FAFC]",
+      "isActive": true
+    }
+  ],
+  "clicks": [
+    {
+      "id": "clk-seed-0",
+      "productId": "prod-1",
+      "productTitle": "Mini Seladora Térmica Portátil Recarregável para Embalagens",
+      "platform": "shopee",
+      "timestamp": "2026-08-23T00:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-1",
+      "productId": "prod-2",
+      "productTitle": "Dispenser Automático de Detergente com Porta Esponja 2 em 1",
+      "platform": "mercadolivre",
+      "timestamp": "2026-08-26T14:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-2",
+      "productId": "prod-3",
+      "productTitle": "Air Fryer Fritadeira Sem Óleo 4L Touch Digital Visor Transparente",
+      "platform": "magalu",
+      "timestamp": "2026-08-22T21:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-3",
+      "productId": "prod-4",
+      "productTitle": "Luminária de Lua 3D Touch 16 Cores RGB com Controle Remoto",
+      "platform": "amazon",
+      "timestamp": "2026-08-22T10:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-4",
+      "productId": "prod-5",
+      "productTitle": "Organizador Giratório 360° Acrílico Diamante para Skincare e Maquiagem",
+      "platform": "shein",
+      "timestamp": "2026-09-02T16:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-5",
+      "productId": "prod-6",
+      "productTitle": "Mini Impressora Térmica Portátil Sem Fio Bluetooth para Fotos e Etiquetas",
+      "platform": "aliexpress",
+      "timestamp": "2026-08-26T19:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-6",
+      "productId": "prod-7",
+      "productTitle": "Escova Secadora Oval 3 em 1 Cerâmica e Íons Tourmaline Bivolt",
+      "platform": "magalu",
+      "timestamp": "2026-08-26T15:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-7",
+      "productId": "prod-8",
+      "productTitle": "Tapete Super Absorvente Mágico de Secagem Rápida para Banheiro",
+      "platform": "shopee",
+      "timestamp": "2026-08-28T14:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-8",
+      "productId": "prod-9",
+      "productTitle": "Fita LED Inteligente Wi-Fi RGB 5 Metros compatível com Alexa e Google Home",
+      "platform": "mercadolivre",
+      "timestamp": "2026-08-28T03:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-9",
+      "productId": "prod-10",
+      "productTitle": "Bebedouro Fonte de Água Automática em Inox para Gatos e Cães com Filtro Triplo",
+      "platform": "amazon",
+      "timestamp": "2026-08-25T20:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-10",
+      "productId": "prod-11",
+      "productTitle": "Mini Processador e Triturador de Alimentos Elétrico USB sem Fio 250ml",
+      "platform": "shopee",
+      "timestamp": "2026-08-23T21:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-11",
+      "productId": "prod-12",
+      "productTitle": "Garrafa Térmica Motivacional 2 Litros com Canudo de Silicone e Adesivos 3D",
+      "platform": "shein",
+      "timestamp": "2026-08-22T21:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-12",
+      "productId": "prod-1",
+      "productTitle": "Mini Seladora Térmica Portátil Recarregável para Embalagens",
+      "platform": "shopee",
+      "timestamp": "2026-08-28T11:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-13",
+      "productId": "prod-2",
+      "productTitle": "Dispenser Automático de Detergente com Porta Esponja 2 em 1",
+      "platform": "mercadolivre",
+      "timestamp": "2026-08-28T13:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-14",
+      "productId": "prod-3",
+      "productTitle": "Air Fryer Fritadeira Sem Óleo 4L Touch Digital Visor Transparente",
+      "platform": "magalu",
+      "timestamp": "2026-08-28T17:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-15",
+      "productId": "prod-4",
+      "productTitle": "Luminária de Lua 3D Touch 16 Cores RGB com Controle Remoto",
+      "platform": "amazon",
+      "timestamp": "2026-09-01T11:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-16",
+      "productId": "prod-5",
+      "productTitle": "Organizador Giratório 360° Acrílico Diamante para Skincare e Maquiagem",
+      "platform": "shein",
+      "timestamp": "2026-08-24T08:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-17",
+      "productId": "prod-6",
+      "productTitle": "Mini Impressora Térmica Portátil Sem Fio Bluetooth para Fotos e Etiquetas",
+      "platform": "aliexpress",
+      "timestamp": "2026-08-20T18:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-18",
+      "productId": "prod-7",
+      "productTitle": "Escova Secadora Oval 3 em 1 Cerâmica e Íons Tourmaline Bivolt",
+      "platform": "magalu",
+      "timestamp": "2026-09-03T05:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-19",
+      "productId": "prod-8",
+      "productTitle": "Tapete Super Absorvente Mágico de Secagem Rápida para Banheiro",
+      "platform": "shopee",
+      "timestamp": "2026-09-01T04:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-20",
+      "productId": "prod-9",
+      "productTitle": "Fita LED Inteligente Wi-Fi RGB 5 Metros compatível com Alexa e Google Home",
+      "platform": "mercadolivre",
+      "timestamp": "2026-08-21T16:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-21",
+      "productId": "prod-10",
+      "productTitle": "Bebedouro Fonte de Água Automática em Inox para Gatos e Cães com Filtro Triplo",
+      "platform": "amazon",
+      "timestamp": "2026-08-27T12:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-22",
+      "productId": "prod-11",
+      "productTitle": "Mini Processador e Triturador de Alimentos Elétrico USB sem Fio 250ml",
+      "platform": "shopee",
+      "timestamp": "2026-08-24T17:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-23",
+      "productId": "prod-12",
+      "productTitle": "Garrafa Térmica Motivacional 2 Litros com Canudo de Silicone e Adesivos 3D",
+      "platform": "shein",
+      "timestamp": "2026-08-23T18:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-24",
+      "productId": "prod-1",
+      "productTitle": "Mini Seladora Térmica Portátil Recarregável para Embalagens",
+      "platform": "shopee",
+      "timestamp": "2026-08-25T04:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-25",
+      "productId": "prod-2",
+      "productTitle": "Dispenser Automático de Detergente com Porta Esponja 2 em 1",
+      "platform": "mercadolivre",
+      "timestamp": "2026-08-31T15:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-26",
+      "productId": "prod-3",
+      "productTitle": "Air Fryer Fritadeira Sem Óleo 4L Touch Digital Visor Transparente",
+      "platform": "magalu",
+      "timestamp": "2026-08-24T14:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-27",
+      "productId": "prod-4",
+      "productTitle": "Luminária de Lua 3D Touch 16 Cores RGB com Controle Remoto",
+      "platform": "amazon",
+      "timestamp": "2026-09-03T07:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-28",
+      "productId": "prod-5",
+      "productTitle": "Organizador Giratório 360° Acrílico Diamante para Skincare e Maquiagem",
+      "platform": "shein",
+      "timestamp": "2026-09-03T14:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-29",
+      "productId": "prod-6",
+      "productTitle": "Mini Impressora Térmica Portátil Sem Fio Bluetooth para Fotos e Etiquetas",
+      "platform": "aliexpress",
+      "timestamp": "2026-09-01T14:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-30",
+      "productId": "prod-7",
+      "productTitle": "Escova Secadora Oval 3 em 1 Cerâmica e Íons Tourmaline Bivolt",
+      "platform": "magalu",
+      "timestamp": "2026-08-30T17:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-31",
+      "productId": "prod-8",
+      "productTitle": "Tapete Super Absorvente Mágico de Secagem Rápida para Banheiro",
+      "platform": "shopee",
+      "timestamp": "2026-08-25T02:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-32",
+      "productId": "prod-9",
+      "productTitle": "Fita LED Inteligente Wi-Fi RGB 5 Metros compatível com Alexa e Google Home",
+      "platform": "mercadolivre",
+      "timestamp": "2026-08-27T23:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-33",
+      "productId": "prod-10",
+      "productTitle": "Bebedouro Fonte de Água Automática em Inox para Gatos e Cães com Filtro Triplo",
+      "platform": "amazon",
+      "timestamp": "2026-09-03T03:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-34",
+      "productId": "prod-11",
+      "productTitle": "Mini Processador e Triturador de Alimentos Elétrico USB sem Fio 250ml",
+      "platform": "shopee",
+      "timestamp": "2026-08-27T05:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-35",
+      "productId": "prod-12",
+      "productTitle": "Garrafa Térmica Motivacional 2 Litros com Canudo de Silicone e Adesivos 3D",
+      "platform": "shein",
+      "timestamp": "2026-08-30T12:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-36",
+      "productId": "prod-1",
+      "productTitle": "Mini Seladora Térmica Portátil Recarregável para Embalagens",
+      "platform": "shopee",
+      "timestamp": "2026-08-30T09:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-37",
+      "productId": "prod-2",
+      "productTitle": "Dispenser Automático de Detergente com Porta Esponja 2 em 1",
+      "platform": "mercadolivre",
+      "timestamp": "2026-08-23T05:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-38",
+      "productId": "prod-3",
+      "productTitle": "Air Fryer Fritadeira Sem Óleo 4L Touch Digital Visor Transparente",
+      "platform": "magalu",
+      "timestamp": "2026-08-23T22:50:05.065Z"
+    },
+    {
+      "id": "clk-seed-39",
+      "productId": "prod-4",
+      "productTitle": "Luminária de Lua 3D Touch 16 Cores RGB com Controle Remoto",
+      "platform": "amazon",
+      "timestamp": "2026-08-23T22:50:05.065Z"
+    },
+    {
+      "id": "clk-1788453402522-mcj7",
+      "productId": "prod-1",
+      "productTitle": "Mini Seladora Térmica Portátil Recarregável para Embalagens",
+      "platform": "shopee",
+      "visitorIpHash": "6b06a4a8c68e851c",
+      "userAgent": "Mozilla/5.0 Test Suite",
+      "referrer": "https://instagram.com",
+      "timestamp": "2026-09-03T16:36:42.521Z"
+    },
+    {
+      "id": "clk-1788453451643-920b",
+      "productId": "prod-1",
+      "productTitle": "Mini Seladora Térmica Portátil Recarregável para Embalagens",
+      "platform": "shopee",
+      "visitorIpHash": "6b06a4a8c68e851c",
+      "userAgent": "Mozilla/5.0 Test Suite",
+      "referrer": "https://instagram.com",
+      "timestamp": "2026-09-03T16:37:31.643Z"
+    },
+    {
+      "id": "clk-1788453467618-ah01",
+      "productId": "prod-1",
+      "productTitle": "Mini Seladora Térmica Portátil Recarregável para Embalagens",
+      "platform": "shopee",
+      "visitorIpHash": "6b06a4a8c68e851c",
+      "userAgent": "Mozilla/5.0 Test Suite",
+      "referrer": "https://instagram.com",
+      "timestamp": "2026-09-03T16:37:47.618Z"
+    },
+    {
+      "id": "clk-1788453516570-wb6v",
+      "productId": "prod-1",
+      "productTitle": "Mini Seladora Térmica Portátil Recarregável para Embalagens",
+      "platform": "shopee",
+      "visitorIpHash": "6b06a4a8c68e851c",
+      "userAgent": "Mozilla/5.0 Test Suite",
+      "referrer": "https://instagram.com",
+      "timestamp": "2026-09-03T16:38:36.570Z"
+    },
+    {
+      "id": "clk-1788453563972-bjhf",
+      "productId": "prod-1",
+      "productTitle": "Mini Seladora Térmica Portátil Recarregável para Embalagens",
+      "platform": "shopee",
+      "visitorIpHash": "6b06a4a8c68e851c",
+      "userAgent": "Mozilla/5.0 Test Suite",
+      "referrer": "https://instagram.com",
+      "timestamp": "2026-09-03T16:39:23.972Z"
+    },
+    {
+      "id": "clk-1788458052834-e4ao",
+      "productId": "prod-1",
+      "productTitle": "Mini Seladora Térmica Portátil Recarregável para Embalagens",
+      "platform": "shopee",
+      "visitorIpHash": "6b06a4a8c68e851c",
+      "userAgent": "Mozilla/5.0 Test Suite",
+      "referrer": "https://instagram.com",
+      "timestamp": "2026-09-03T17:54:12.834Z"
+    },
+    {
+      "id": "clk-1788458138164-l694",
+      "productId": "prod-1",
+      "productTitle": "Mini Seladora Térmica Portátil Recarregável para Embalagens",
+      "platform": "shopee",
+      "visitorIpHash": "6b06a4a8c68e851c",
+      "userAgent": "Mozilla/5.0 Test Suite",
+      "referrer": "https://instagram.com",
+      "timestamp": "2026-09-03T17:55:38.164Z"
+    }
+  ],
+  "settings": {
+    "siteTitle": "Sinara Achadinhos da Internet",
+    "tagline": "Garimpos, novidades e ofertas reais verificadas com carinho",
+    "sinaraBio": "Curadora oficial de achadinhos da internet. Testo, seleciono e garimpo os melhores preços em Magalu, Shopee, Mercado Livre, Amazon e muito mais!",
+    "whatsappGroupUrl": "https://chat.whatsapp.com/sample",
+    "telegramChannelUrl": "https://t.me/sample",
+    "instagramUrl": "https://instagram.com/sinaraachadinhos",
+    "goldFindProductId": "prod-1",
+    "mainFeaturedId": "prod-1",
+    "weeklyHighlightId": "prod-3"
+  },
+  "version": 1
+}
