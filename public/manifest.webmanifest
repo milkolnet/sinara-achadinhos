@@ -1,0 +1,16 @@
+{
+  "name": "Achadinho da Sinara",
+  "short_name": "Achadinho",
+  "description": "Achadinhos, ofertas e cupons selecionados pela Sinara.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FFF8FA",
+  "theme_color": "#FF3B7F",
+  "lang": "pt-BR",
+  "categories": ["shopping", "lifestyle"],
+  "icons": [
+    { "src": "/achadinho-sinara-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
